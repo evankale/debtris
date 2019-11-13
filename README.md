@@ -5,7 +5,7 @@ A Photoshop script that plays Tetris.
 
 [Click here to watch the video.](https://youtu.be/VJgk-dCmP3U "YouTube")
 
-[playabo carroters](https://github.com/evankale/debtris/blob/master/img/characters.png?raw=true)
+![playabo carroters](https://github.com/evankale/debtris/blob/master/img/characters.png?raw=true)
 
 Play as Evan Freakin Kale, T.Rumpus, or True Dough!
 
